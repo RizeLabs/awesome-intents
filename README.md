@@ -9,15 +9,15 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 
 #### ERC 4337
 
--[ERC-4337: Account Abstraction Using Alt Mempool ](https://eips.ethereum.org/EIPS/eip-4337)
--[Alchemy: You Could Have Invented Account Abstraction: Part 1](https://www.alchemy.com/blog/account-abstraction)
--[Ethereum Foundation 🛠 Account abstraction: building an ERC-4337 wallet - Yoav Weiss, Dror Tirosh](https://www.youtube.com/watch?v=xHWlJiL_iZA&pp=ygUdIGVyYyA0MzM3IGFjY291bnQgYWJzdHJhY3Rpb24%3D)
--[Why Account Abstraction is a Game-Changer for Dapps | Devcon Bogotá](https://www.youtube.com/watch?v=OwppworJGzs&pp=ygUdIGVyYyA0MzM3IGFjY291bnQgYWJzdHJhY3Rpb24%3D)
+- [ERC-4337: Account Abstraction Using Alt Mempool ](https://eips.ethereum.org/EIPS/eip-4337)
+- [Alchemy: You Could Have Invented Account Abstraction: Part 1](https://www.alchemy.com/blog/account-abstraction)
+- [Ethereum Foundation 🛠 Account abstraction: building an ERC-4337 wallet - Yoav Weiss, Dror Tirosh](https://www.youtube.com/watch?v=xHWlJiL_iZA&pp=ygUdIGVyYyA0MzM3IGFjY291bnQgYWJzdHJhY3Rpb24%3D)
+- [Why Account Abstraction is a Game-Changer for Dapps | Devcon Bogotá](https://www.youtube.com/watch?v=OwppworJGzs&pp=ygUdIGVyYyA0MzM3IGFjY291bnQgYWJzdHJhY3Rpb24%3D)
 
 #### Proposer Builder Separation (PBS)
 
--[Proposer-builder separation](https://ethereum.org/nl/roadmap/pbs/)
--[How does proposer/builder separation (PBS) work?](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance#State-of-research-increasing-censorship-resistance-of-transactions-under-proposerbuilder-separation-PBS)
+- [Proposer-builder separation](https://ethereum.org/nl/roadmap/pbs/)
+- [How does proposer/builder separation (PBS) work?](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance#State-of-research-increasing-censorship-resistance-of-transactions-under-proposerbuilder-separation-PBS)
 
 ### Articles
 
