@@ -7,6 +7,8 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 
 #### SUAVE
 
+- [The Future of MEV is SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave/)
+
 #### ERC 4337
 
 - [ERC-4337: Account Abstraction Using Alt Mempool ](https://eips.ethereum.org/EIPS/eip-4337)
@@ -31,7 +33,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Are Intents, SUAVE, Account Abstraction, & Cross-Chain Bridging all the same thing?](https://www.youtube.com/watch?v=G0nFyq9DDPw)
 
 ## Podcasts
-
+- [Twitter space by Celestia](https://twitter.com/CelestiaOrg/status/1668678053705449472)
 
 ## Implementations
 - [Bob the solver](https://ethglobal.com/showcase/bob-the-solver-yxtgp)
