@@ -27,6 +27,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 
 - [Introducing Essential: We Are Intents](https://blog.essential.builders/introducing-essential)
 - [Intent Based architctures and their risk](https://www.paradigm.xyz/2023/06/intents)
+- [Decoding Intents: Revolutionizing Web3 User Experience and Orderflow in Blockchain By SevenX](https://mirror.xyz/sevenxventures.eth/fknoBf3zOoBf55zNFBpMQAIat6iCT9tvrN2AY1j4Sv4)
 - [Anoma's Intent standards](https://medium.com/anomanetwork/an-overview-of-anoma-s-architecture-26b72e8c9be5)
 - [SUAVE, Anoma, Shared Sequencers, & Super Builders](https://dba.mirror.xyz/NTg5FSq1o_YiL_aKJrKBOsOkyeiNUPobvZUrLBGceagg)
 - [The little transaction that could: Sequencers, MEV, Intents and more](https://archetype.mirror.xyz/McPqaV9WVyHhky1AAgGyS6DsZ8O0_OIBtED34sWpcUw)
