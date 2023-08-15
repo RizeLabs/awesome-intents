@@ -34,6 +34,8 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Research: Data & Function Privacy Architectures](https://zkvalidator.com/data-and-function-privacy-architectures/)
 - [Anoma Whitepaper](https://github.com/anoma/whitepaper/blob/main/whitepaper.pdf)
 - [Anoma vision paper](https://anoma.net/vision-paper.pdf)
+- [Powerful Intents by Brink.trade](https://www.brink.trade/blog/powerful-intents-part-1)
+
 ## Talks
 - [Is Intent-Based Architecture a Major Breakthrough Like Bitcoin & Ethereum?](https://www.youtube.com/watch?v=7g5GNq_jXR8)
 - [Are Intents, SUAVE, Account Abstraction, & Cross-Chain Bridging all the same thing?](https://www.youtube.com/watch?v=G0nFyq9DDPw)
