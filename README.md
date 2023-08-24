@@ -56,6 +56,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 
 ## Podcasts
 - [Twitter space by Celestia](https://twitter.com/CelestiaOrg/status/1668678053705449472)
+- [ZK Podcast: Episode 285 - Intents with Chris Goes from Anoma](https://www.youtube.com/watch?v=ALBc3ck7p2Y)
 
 ## Implementations
 - [Bob the solver](https://ethglobal.com/showcase/bob-the-solver-yxtgp)
