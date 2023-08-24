@@ -1,4 +1,5 @@
 # Awesome Intents
+
 A curated list of awesome resources related to intent centric schemes. Intents are fully programmable - you can express any arbitrarily complex state preference.
 
 ## Writings (papers, blog posts, etc)
@@ -35,8 +36,10 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Anoma Whitepaper](https://github.com/anoma/whitepaper/blob/main/whitepaper.pdf)
 - [Anoma vision paper](https://anoma.net/vision-paper.pdf)
 - [Powerful Intents by Brink.trade](https://www.brink.trade/blog/powerful-intents-part-1)
+- [Intent Is All You Need: Part 1](https://medium.com/@BananaHQ/intent-is-all-you-need-part-1-1c5c11ee3b6f)
 
 ## Talks
+
 - [Is Intent-Based Architecture a Major Breakthrough Like Bitcoin & Ethereum?](https://www.youtube.com/watch?v=7g5GNq_jXR8)
 - [Are Intents, SUAVE, Account Abstraction, & Cross-Chain Bridging all the same thing?](https://www.youtube.com/watch?v=G0nFyq9DDPw)
 - [Adrian Brink - Intent-centric (intent-solver pattern) architectures for fully decentralized dApps](https://www.youtube.com/watch?v=zxTPIvtYaUc&t=1s)
@@ -44,6 +47,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Realizing Intents with a Resource Model - Christopher Goes](https://www.youtube.com/watch?v=4Nh4EOpvKMY)
 
 ## Threads
+
 - [About Taiga (Anoma's operating system) by @apriori0x](https://twitter.com/apriori0x/status/1660968015616253955)
 - [Solve DeFi composability in a multi-chain world by @hal2001](https://twitter.com/hal2001/status/1664683317780676634)
 - [Intent based architecture by @khushii_w](https://twitter.com/khushii_w/status/1665537334971072512)
@@ -52,10 +56,10 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 
 - [Reducing Intents’ dependency on LLMs for generating Transaction Object](https://ethresear.ch/t/reducing-intents-dependency-on-llms-for-generating-transaction-object/16182)
 
-
-
 ## Podcasts
+
 - [Twitter space by Celestia](https://twitter.com/CelestiaOrg/status/1668678053705449472)
 
 ## Implementations
+
 - [Bob the solver](https://ethglobal.com/showcase/bob-the-solver-yxtgp)
