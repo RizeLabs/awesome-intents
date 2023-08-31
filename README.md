@@ -26,6 +26,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 
 ### Articles
 
+- [WTF Is Anoma? Part 1: WTF Are Intents?](https://members.delphidigital.io/reports/wtf-is-anoma-part-1-wtf-are-intents#introduction-5e04)
 - [Banana HQ: Intent Is All You Need: Part 1 ](https://medium.com/@BananaHQ/intent-is-all-you-need-part-1-1c5c11ee3b6f)
 - [Introducing Essential: We Are Intents](https://blog.essential.builders/introducing-essential)
 - [Intent Based architctures and their risk](https://www.paradigm.xyz/2023/06/intents)
@@ -47,6 +48,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 
 ## Threads
 
+- [WTF are Intents?](https://twitter.com/Delphi_Digital/status/1696626118164652295)
 - [About Taiga (Anoma's operating system) by @apriori0x](https://twitter.com/apriori0x/status/1660968015616253955)
 - [Solve DeFi composability in a multi-chain world by @hal2001](https://twitter.com/hal2001/status/1664683317780676634)
 - [Intent based architecture by @khushii_w](https://twitter.com/khushii_w/status/1665537334971072512)
