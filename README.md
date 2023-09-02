@@ -37,7 +37,6 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Anoma vision paper](https://anoma.net/vision-paper.pdf)
 - [Powerful Intents by Brink.trade](https://www.brink.trade/blog/powerful-intents-part-1)
 - [Propellerheads: Intents and where to find them](https://www.propellerheads.xyz/blog/intents-and-where-to-find-them)
--
 
 ## Talks
 
