@@ -36,7 +36,8 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [The little transaction that could: Sequencers, MEV, Intents and more](https://archetype.mirror.xyz/McPqaV9WVyHhky1AAgGyS6DsZ8O0_OIBtED34sWpcUw)
 - [Anoma vision paper](https://anoma.net/vision-paper.pdf)
 - [Powerful Intents by Brink.trade](https://www.brink.trade/blog/powerful-intents-part-1)
-- [Intent Is All You Need: Part 1](https://medium.com/@BananaHQ/intent-is-all-you-need-part-1-1c5c11ee3b6f)
+- [Propellerheads: Intents and where to find them](https://www.propellerheads.xyz/blog/intents-and-where-to-find-them)
+-
 
 ## Talks
 
@@ -63,6 +64,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 
 - [Twitter space by Celestia](https://twitter.com/CelestiaOrg/status/1668678053705449472)
 - [ZK Podcast: Episode 285 - Intents with Chris Goes from Anoma](https://www.youtube.com/watch?v=ALBc3ck7p2Y)
+- [Uma Roy on zk-SNARKs and Intents in Web3](https://soundcloud.com/variantfund/succinct-ceo-uma-roy-on-zk-snarks-and-intents-in-web3)
 
 ## Implementations
 
