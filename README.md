@@ -37,6 +37,10 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Anoma vision paper](https://anoma.net/vision-paper.pdf)
 - [Powerful Intents by Brink.trade](https://www.brink.trade/blog/powerful-intents-part-1)
 - [Propellerheads: Intents and where to find them](https://www.propellerheads.xyz/blog/intents-and-where-to-find-them)
+- [WTF Is Anoma? Part 1: WTF Are Intents?](https://members.delphidigital.io/reports/wtf-is-anoma-part-1-wtf-are-intents#introduction-5e04)
+- [Beyond Transactions](https://bridgeharris.substack.com/p/beyond-transactions)
+- [Intent is All you need | Part - 2](https://medium.com/banana-sdk/intent-is-all-you-need-part-2-dbaef136c409)
+- [The Little Transaction that Could: Sequencers, MEV, Intents, and more](https://archetype.mirror.xyz/McPqaV9WVyHhky1AAgGyS6DsZ8O0_OIBtED34sWpcUw)
 
 ## Talks
 
@@ -64,6 +68,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Twitter space by Celestia](https://twitter.com/CelestiaOrg/status/1668678053705449472)
 - [ZK Podcast: Episode 285 - Intents with Chris Goes from Anoma](https://www.youtube.com/watch?v=ALBc3ck7p2Y)
 - [Uma Roy on zk-SNARKs and Intents in Web3](https://soundcloud.com/variantfund/succinct-ceo-uma-roy-on-zk-snarks-and-intents-in-web3)
+- [The Rising Importance of Intents in Web3: Succinct’s Uma Roy](https://variant.fund/articles/importance-of-intents-web3-infra-succinct-uma-roy/)
 
 ## Implementations
 
