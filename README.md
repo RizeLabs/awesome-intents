@@ -62,6 +62,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Anoma Whitepaper](https://github.com/anoma/whitepaper/blob/main/whitepaper.pdf)
 - [Reducing Intents’ dependency on LLMs for generating Transaction Object](https://ethresear.ch/t/reducing-intents-dependency-on-llms-for-generating-transaction-object/16182)
 - [How can we decentralize intents?](https://ethresear.ch/t/how-can-we-decentralize-intents/16456)
+- [A decentralised solver architecture for executing intents on EVM blockchain](https://ethresear.ch/t/a-decentralised-solver-architecture-for-executing-intents-on-evm-blockchain/16608)
 
 ## Podcasts
 
