@@ -27,20 +27,18 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 ### Articles
 
 - [WTF Is Anoma? Part 1: WTF Are Intents?](https://members.delphidigital.io/reports/wtf-is-anoma-part-1-wtf-are-intents#introduction-5e04)
-- [Banana HQ: Intent Is All You Need: Part 1 ](https://medium.com/@BananaHQ/intent-is-all-you-need-part-1-1c5c11ee3b6f)
+  [Anoma vision paper](https://anoma.net/vision-paper.pdf)
+- [Banana HQ | Intent Is All You Need: Part 1](https://medium.com/banana-sdk/intent-is-all-you-need-part-1-1c5c11ee3b6f)
+- [Banana HQ | Intent is All you Need: Part 2](https://medium.com/banana-sdk/intent-is-all-you-need-part-2-dbaef136c409)
 - [Introducing Essential: We Are Intents](https://blog.essential.builders/introducing-essential)
 - [Intent Based architctures and their risk](https://www.paradigm.xyz/2023/06/intents)
 - [Decoding Intents: Revolutionizing Web3 User Experience and Orderflow in Blockchain By SevenX](https://mirror.xyz/sevenxventures.eth/fknoBf3zOoBf55zNFBpMQAIat6iCT9tvrN2AY1j4Sv4)
 - [Anoma's Intent standards](https://medium.com/anomanetwork/an-overview-of-anoma-s-architecture-26b72e8c9be5)
 - [SUAVE, Anoma, Shared Sequencers, & Super Builders](https://dba.mirror.xyz/NTg5FSq1o_YiL_KJrKBOsOkyeiNUPobvZUrLBGceagg)
 - [The little transaction that could: Sequencers, MEV, Intents and more](https://archetype.mirror.xyz/McPqaV9WVyHhky1AAgGyS6DsZ8O0_OIBtED34sWpcUw)
-- [Anoma vision paper](https://anoma.net/vision-paper.pdf)
 - [Powerful Intents by Brink.trade](https://www.brink.trade/blog/powerful-intents-part-1)
 - [Propellerheads: Intents and where to find them](https://www.propellerheads.xyz/blog/intents-and-where-to-find-them)
-- [WTF Is Anoma? Part 1: WTF Are Intents?](https://members.delphidigital.io/reports/wtf-is-anoma-part-1-wtf-are-intents#introduction-5e04)
 - [Beyond Transactions](https://bridgeharris.substack.com/p/beyond-transactions)
-- [Intent is All you need | Part - 2](https://medium.com/banana-sdk/intent-is-all-you-need-part-2-dbaef136c409)
-- [The Little Transaction that Could: Sequencers, MEV, Intents, and more](https://archetype.mirror.xyz/McPqaV9WVyHhky1AAgGyS6DsZ8O0_OIBtED34sWpcUw)
 
 ## Talks
 
@@ -58,6 +56,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Intent based architecture by @khushii_w](https://twitter.com/khushii_w/status/1665537334971072512)
 
 ## Research
+
 - [Research: Data & Function Privacy Architectures](https://zkvalidator.com/data-and-function-privacy-architectures/)
 - [Anoma Whitepaper](https://github.com/anoma/whitepaper/blob/main/whitepaper.pdf)
 - [Reducing Intents’ dependency on LLMs for generating Transaction Object](https://ethresear.ch/t/reducing-intents-dependency-on-llms-for-generating-transaction-object/16182)
