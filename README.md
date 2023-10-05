@@ -39,6 +39,9 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Powerful Intents by Brink.trade](https://www.brink.trade/blog/powerful-intents-part-1)
 - [Propellerheads: Intents and where to find them](https://www.propellerheads.xyz/blog/intents-and-where-to-find-them)
 - [Beyond Transactions](https://bridgeharris.substack.com/p/beyond-transactions)
+- [All you need to know about intents](https://writings.fetcch.xyz/all-you-need-to-know-about-intents)
+- [Intent-Centric Design: Repackaging Account Abstraction, or Evolving It Further?](https://medium.com/particle-network/intent-centric-design-repackaging-account-abstraction-or-evolving-it-further-9989deb70530)
+- [Privacy in Tents: an overview of private solving strategies](https://anoma.net/blog/privacy-in-tents)
 
 ## Talks
 
