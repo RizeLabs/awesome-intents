@@ -42,6 +42,7 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [All you need to know about intents](https://writings.fetcch.xyz/all-you-need-to-know-about-intents)
 - [Intent-Centric Design: Repackaging Account Abstraction, or Evolving It Further?](https://medium.com/particle-network/intent-centric-design-repackaging-account-abstraction-or-evolving-it-further-9989deb70530)
 - [Privacy in Tents: an overview of private solving strategies](https://anoma.net/blog/privacy-in-tents)
+- [Intents - from special to general](https://merklelabs.substack.com/p/intents-from-special-to-general)
 
 ## Talks
 
