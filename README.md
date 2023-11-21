@@ -77,3 +77,4 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 ## Implementations
 
 - [Bob the solver](https://ethglobal.com/showcase/bob-the-solver-yxtgp)
+- [Particle Network's Intent Fusion Protocol](https://blog.particle.network/intent-fusion-protocol)
