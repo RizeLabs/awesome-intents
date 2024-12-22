@@ -43,6 +43,8 @@ A curated list of awesome resources related to intent centric schemes. Intents a
 - [Intent-Centric Design: Repackaging Account Abstraction, or Evolving It Further?](https://medium.com/particle-network/intent-centric-design-repackaging-account-abstraction-or-evolving-it-further-9989deb70530)
 - [Privacy in Tents: an overview of private solving strategies](https://anoma.net/blog/privacy-in-tents)
 - [Intents - from special to general](https://merklelabs.substack.com/p/intents-from-special-to-general)
+- [Why Intent-solver system works](https://www.decipherclub.com/intent-solver-systems-1/)
+- [Mental Models for Intent-Solver systems](https://www.decipherclub.com/mental-models-for-any-intent-solver-systems/)
 
 ## Talks
 
